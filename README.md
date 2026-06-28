@@ -82,8 +82,7 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dan4eg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilisimys@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Open_in_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=danilisimys@gmail.com)
 </div>
 
 ---
